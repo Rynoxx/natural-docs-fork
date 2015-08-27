@@ -287,3 +287,12 @@ Language: Fortran
    Function Prototype Ender: \n
    Variable Prototype Enders: \n = =>
    Line Extender: &
+
+
+Language: Lua
+
+   Extension: lua
+   Line Comments: -- //
+   Block Comments: --[[ ]] --[[ --]] /* */
+   Function Prototype Enders: end \n
+   Variable Prototype Enders: ; =

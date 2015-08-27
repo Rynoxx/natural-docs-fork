@@ -28,6 +28,7 @@ use integer;
 
 use NaturalDocs::Builder::Base;
 use NaturalDocs::Builder::HTML;
+use NaturalDocs::Builder::Markdown;
 use NaturalDocs::Builder::FramedHTML;
 
 package NaturalDocs::Builder;
